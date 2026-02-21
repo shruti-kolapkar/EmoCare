@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Emotion Aware Patient Monitoring System  
 ### IoT-Based Real-Time Stress & Anxiety Detection
 
@@ -81,3 +82,6 @@ The system consists of the following layers:
 
 ## Author
 ### Aarya Falle
+=======
+# EmoCare
+>>>>>>> c91dde70aa501329c8cfefd80bb6c3e07281e2a1
